@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2bfc42a-142d-4df5-a231-6f89295adf69" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-    </list>
+    <list default="true" id="f2bfc42a-142d-4df5-a231-6f89295adf69" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="213">
+              <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
               <folding>
                 <marker date="1522783757039" expanded="true" signature="231:303" ph="{&quot;apiKey&quot;: process.env.clientId...}" />
                 <marker date="1522783757039" expanded="true" signature="577:584" ph="{...}" />
@@ -58,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -168,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522784429608</updated>
-      <workItem from="1522784430913" duration="1771000" />
+      <workItem from="1522784430913" duration="1864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1771000" />
+    <option name="totallyTimeSpent" value="1864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="6" width="1922" height="1092" extended-state="6" />
@@ -210,25 +207,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1522783757039" expanded="true" signature="231:303" ph="{&quot;apiKey&quot;: process.env.clientId...}" />
-            <marker date="1522783757039" expanded="true" signature="577:584" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="636:723" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="640:690" ph="//..." />
-            <marker date="1522783757039" expanded="true" signature="856:948" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="872:907" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="913:930" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="972:1086" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="1320:1331" ph="{...}" />
-            <marker date="1522783757039" expanded="true" signature="1378:1391" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -250,6 +228,25 @@
         <state relative-caret-position="108">
           <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+          <folding>
+            <marker date="1522783757039" expanded="true" signature="231:303" ph="{&quot;apiKey&quot;: process.env.clientId...}" />
+            <marker date="1522783757039" expanded="true" signature="577:584" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="636:723" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="640:690" ph="//..." />
+            <marker date="1522783757039" expanded="true" signature="856:948" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="872:907" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="913:930" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="972:1086" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="1320:1331" ph="{...}" />
+            <marker date="1522783757039" expanded="true" signature="1378:1391" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
