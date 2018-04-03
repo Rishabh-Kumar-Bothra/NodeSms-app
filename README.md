@@ -25,7 +25,6 @@ You will need to add your own Nexmo api key, secret and virtual number
 
 ### Demo
 
-Brad Traversy
 [Demo Url](https://fathomless-river-46197.herokuapp.com/)
 
 
