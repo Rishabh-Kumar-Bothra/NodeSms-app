@@ -2,10 +2,6 @@
 
 Node.js app that uses Nexmo to send SMS text messages
 
-### Version
-1.0.0
-
-## Usage
 
 ### Installation
 
@@ -19,7 +15,7 @@ $ npm install
 To serve in the browser
 
 ```sh
-$ npm start
+$ nodemon server.js
 ```
 
 ## App Info
@@ -27,14 +23,11 @@ $ npm start
 ### Nexmo API Keys
 You will need to add your own Nexmo api key, secret and virtual number
 
-### Author
+### Demo
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Demo Url](https://fathomless-river-46197.herokuapp.com/)
 
-### Version
-
-1.0.0
 
 ### License
 
